@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * ✉️  You can contact me at [chembananurag23@gmail.com](mailto:chembananurag23@gmail.com)
-* 🧠  I'm learning Solidity
+
 
 ### Skills
 
