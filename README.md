@@ -4,7 +4,6 @@ Hi 👋 My name is Anurag Chemban
 Web Developer
 -------------
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [chembananurag23@gmail.com](mailto:chembananurag23@gmail.com)
 * 🧠  I'm learning Blockchain development
 * 🤝  I'm open to collaborating on Solidity projects
