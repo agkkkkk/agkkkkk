@@ -4,6 +4,8 @@ Hi 👋 My name is Anurag Chemban
 Fullstack Blockchain Developer
 ------------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agkkkkk&label=Profile%20views&color=0e75b6&style=flat" alt="agkkkkk" /> </p>
+
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [chembananurag23@gmail.com](mailto:chembananurag23@gmail.com)
 * 🧠  I'm learning ZK
